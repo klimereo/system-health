@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=System Health
+GenericName=System Health Monitor
+Comment=See the health of your computer at a glance
+Exec=system-health
+Icon=system-health
+Terminal=false
+Categories=System;Monitor;
+Keywords=health;cpu;memory;disk;battery;temperature;smart;
+StartupWMClass=system-health
